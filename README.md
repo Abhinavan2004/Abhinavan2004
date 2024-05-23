@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Reactjs**
 
-- 💬 Ask me about **HTML, CSS, C, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript , C, Java **
 
 - 📫 How to reach me **abhinavanpan@gmail.com**
 
