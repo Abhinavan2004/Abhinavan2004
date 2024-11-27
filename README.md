@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
-- 💬 Ask me about **HTML, CSS, JavaScript , C, Java , Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript , C, Java , Tailwind CSS, Wordpress**
 
 - 📫 How to reach me **abhinavanpan@gmail.com**
 
