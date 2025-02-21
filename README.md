@@ -46,7 +46,7 @@
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" height="42px"/> 
 </a>
 <a href="https://tailwindcss.com/" target="_blank"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="42px"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" alt="Tailwind CSS" height="42px" style="fill:#38bdf8;"/> 
 </a>
 <a href="https://getbootstrap.com/" target="_blank"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="42px"/> 
@@ -66,6 +66,9 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="42px"/> 
 </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="42px"/> 
+</a>
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/start/about.html" target="_blank"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java AWT" height="42px"/> 
 </a>
@@ -80,6 +83,14 @@
 </a>
 <a href="https://cloud.google.com/" target="_blank"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="42px"/> 
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftpowerbi.svg" alt="Power BI" height="42px"/> 
+</a>
+
+<a href="https://www.postman.com/" target="_blank"> 
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" height="42px"/> 
 </a>
 
 
