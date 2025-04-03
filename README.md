@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan2004" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs**
+- 🌱 I’m currently learning **Java Full-Stack Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript , C, Java , Tailwind CSS, Wordpress, Java AWT, Java Swing, MySQL**
 
@@ -117,4 +117,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavan2004&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavan2004&show_icons=true&theme=merko&locale=en" alt="Abhinav Anpan" flex-grow=1  />
+---
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinavan2004/Abhinavan2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinavan2004/Abhinavan2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhinavan2004/Abhinavan2004/output/github-contribution-grid-snake.svg">
+</picture>
+  <br/><br/>
+</div>
