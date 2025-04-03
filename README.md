@@ -117,5 +117,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavan2004&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavan2004&" alt="abhinavan2004" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavan2004&show_icons=true&theme=merko&locale=en" alt="Abhinav Anpan" flex-grow=1  />
