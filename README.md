@@ -39,11 +39,10 @@
 
 <div align="center">
 
-<!-- Row 1 -->
-<div style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavan2004&theme=nightowl&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavan2004&theme=nightowl&hide_border=false&layout=compact" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavan2004&show_icons=true&theme=nightowl" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavan2004&layout=compact&theme=nightowl" height="180"/>
+</p>
 
 <br/>
 
