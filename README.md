@@ -39,10 +39,13 @@
 
 <div align="center">
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinavan2004&show_icons=true&theme=nightowl" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavan2004&layout=compact&theme=nightowl" height="180"/>
 </p>
+
 
 <br/>
 
@@ -59,8 +62,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+### 🏆 GitHub Achievements
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhinavan2004&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavan2004&theme=onedark&no-frame=true&row=1"/>
+</p>
