@@ -62,8 +62,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhinavan2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<!--
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavan2004&theme=onedark&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavan2004&theme=algolia" />
 </p>
+
+-->
